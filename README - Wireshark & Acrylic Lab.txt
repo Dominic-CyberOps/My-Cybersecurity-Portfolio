@@ -1,0 +1,2 @@
+This lab showcases my understanding of how to sniff and analyze network traffic using Wireshark.
+This lab also showcases my understanding of finding network vulnerabilities using Acrylic: a free software that scans surrounding networks for vulnerabilities.
