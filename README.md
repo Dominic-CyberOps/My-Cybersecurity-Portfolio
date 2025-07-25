@@ -4,4 +4,5 @@ Welcome to my Cybersecurity Profile! I am currently a student at Montgomery Coll
 Topics my projects cover include:
 Wireshark vulnerabilitiy scans,
 AWS server hosting and configuration,
-OS hardening to reduce vulnerabilities
+OS hardening to reduce vulnerabilities,
+and BurpSuite and FoxyProxy usage to intercept website traffic
