@@ -5,4 +5,4 @@ Topics my projects cover include:
 Wireshark vulnerabilitiy scans,
 AWS server hosting and configuration,
 OS hardening to reduce vulnerabilities,
-and BurpSuite and FoxyProxy usage to intercept website traffic
+and BurpSuite and FoxyProxy usage to intercept website traffic.
