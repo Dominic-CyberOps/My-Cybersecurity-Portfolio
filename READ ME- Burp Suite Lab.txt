@@ -1,0 +1,2 @@
+In this lab I demonstrate the use of the programs Burp Suite and FoxyProxy - two commonly used programs for penetration testing in a web application enviornment.
+The understanding of these programs is demonstrated by the use of these of two programs to intercept web traffic.
