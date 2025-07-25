@@ -1,0 +1,2 @@
+In this lab, I showcase how you would harden a Windows OS to minimize vulnerabilities in a system.
+I show my understanding of OS hardening by answering the questions related to OS hardening.
